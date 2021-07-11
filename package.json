@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "homepage": "http://kulman90vadik.github.io/desing-dev",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -26,6 +27,7 @@
     "slick-carousel": "^1.8.1"
   },
   "dependencies": {
+    "gh-pages": "^3.2.3",
     "gulp-cheerio": "^1.0.0",
     "gulp-replace": "^1.1.3",
     "jquery": "^3.6.0",
